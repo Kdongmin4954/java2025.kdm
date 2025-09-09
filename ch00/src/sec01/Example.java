@@ -1,6 +1,6 @@
-package java_example;
+package sec01;
 
-public class sec01 {
+public class Example {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
