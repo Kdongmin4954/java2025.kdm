@@ -9,8 +9,10 @@ public class ArrayTest {
 //			System.out.println(intArray[i]);
 //		}
 		
-		int[][] scores = new int[2][3];
+		int[][] scores;
+		scores = new int[2][];
 		scores[0] = new int[3];
+		scores[1] = new int[5];
 	
 	}
 
